@@ -1,0 +1,487 @@
+,Country,Series Name,year,value,ISO,vars
+0,Argentina,Prevalencia de desnutrición (% de la población),1990,,ARG,nutr
+1,Argentina,Prevalencia de desnutrición (% de la población),2000,,ARG,nutr
+2,Argentina,Prevalencia de desnutrición (% de la población),2011,3.3,ARG,nutr
+3,Argentina,Prevalencia de desnutrición (% de la población),2012,3.2,ARG,nutr
+4,Argentina,Prevalencia de desnutrición (% de la población),2013,2.8,ARG,nutr
+5,Argentina,Prevalencia de desnutrición (% de la población),2014,2.5,ARG,nutr
+6,Argentina,Prevalencia de desnutrición (% de la población),2015,2.6,ARG,nutr
+7,Argentina,Prevalencia de desnutrición (% de la población),2016,2.9,ARG,nutr
+8,Argentina,Prevalencia de desnutrición (% de la población),2017,3.4,ARG,nutr
+9,Argentina,Prevalencia de desnutrición (% de la población),2018,3.8,ARG,nutr
+10,Argentina,Prevalencia de desnutrición (% de la población),2019,,ARG,nutr
+11,Argentina,Prevalencia de desnutrición (% de la población),2020,,ARG,nutr
+12,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,ARG,escaños_mujeres
+13,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,26.459143968871608,ARG,escaños_mujeres
+14,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,37.3540856031128,ARG,escaños_mujeres
+15,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,37.3540856031128,ARG,escaños_mujeres
+16,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,36.5758754863813,ARG,escaños_mujeres
+17,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,36.5758754863813,ARG,escaños_mujeres
+18,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,,ARG,escaños_mujeres
+19,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,35.7976653696498,ARG,escaños_mujeres
+20,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,38.1322957198444,ARG,escaños_mujeres
+21,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,38.9105058365759,ARG,escaños_mujeres
+22,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,40.1574803149606,ARG,escaños_mujeres
+23,Argentina,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,40.8560311284047,ARG,escaños_mujeres
+24,Argentina,Camas hospitalarias (por cada 1.000 personas),1990,4.5942997932,ARG,camas_hosp
+25,Argentina,Camas hospitalarias (por cada 1.000 personas),2000,4.1,ARG,camas_hosp
+26,Argentina,Camas hospitalarias (por cada 1.000 personas),2011,4.39,ARG,camas_hosp
+27,Argentina,Camas hospitalarias (por cada 1.000 personas),2012,4.59,ARG,camas_hosp
+28,Argentina,Camas hospitalarias (por cada 1.000 personas),2013,4.78,ARG,camas_hosp
+29,Argentina,Camas hospitalarias (por cada 1.000 personas),2014,4.84,ARG,camas_hosp
+30,Argentina,Camas hospitalarias (por cada 1.000 personas),2015,4.96,ARG,camas_hosp
+31,Argentina,Camas hospitalarias (por cada 1.000 personas),2016,4.95,ARG,camas_hosp
+32,Argentina,Camas hospitalarias (por cada 1.000 personas),2017,4.99,ARG,camas_hosp
+33,Argentina,Camas hospitalarias (por cada 1.000 personas),2018,,ARG,camas_hosp
+34,Argentina,Camas hospitalarias (por cada 1.000 personas),2019,,ARG,camas_hosp
+35,Argentina,Camas hospitalarias (por cada 1.000 personas),2020,,ARG,camas_hosp
+36,Argentina,Control of Corruption Score,1996,-0.1013172,ARG,corruption
+37,Argentina,Control of Corruption Score,1998,-0.1134242,ARG,corruption
+38,Argentina,Control of Corruption Score,2000,-0.1921188,ARG,corruption
+39,Argentina,Control of Corruption Score,2002,-0.4682112,ARG,corruption
+40,Argentina,Control of Corruption Score,2003,-0.4783363000000001,ARG,corruption
+41,Argentina,Control of Corruption Score,2004,-0.4249913,ARG,corruption
+42,Argentina,Control of Corruption Score,2005,-0.3881924000000001,ARG,corruption
+43,Argentina,Control of Corruption Score,2006,-0.34125370000000005,ARG,corruption
+44,Argentina,Control of Corruption Score,2007,-0.3402916,ARG,corruption
+45,Argentina,Control of Corruption Score,2008,-0.4355765,ARG,corruption
+46,Argentina,Control of Corruption Score,2009,-0.4449961,ARG,corruption
+47,Argentina,Control of Corruption Score,2010,-0.3614692,ARG,corruption
+48,Argentina,Control of Corruption Score,2011,-0.3661579,ARG,corruption
+49,Argentina,Control of Corruption Score,2012,-0.4431399,ARG,corruption
+50,Argentina,Control of Corruption Score,2013,-0.432282,ARG,corruption
+51,Argentina,Control of Corruption Score,2014,-0.5416201,ARG,corruption
+52,Argentina,Control of Corruption Score,2015,-0.5470577,ARG,corruption
+53,Argentina,Control of Corruption Score,2016,-0.2840413,ARG,corruption
+54,Bolivia,Prevalencia de desnutrición (% de la población),1990,,BOL,nutr
+55,Bolivia,Prevalencia de desnutrición (% de la población),2000,,BOL,nutr
+56,Bolivia,Prevalencia de desnutrición (% de la población),2011,21.2,BOL,nutr
+57,Bolivia,Prevalencia de desnutrición (% de la población),2012,19.7,BOL,nutr
+58,Bolivia,Prevalencia de desnutrición (% de la población),2013,19.0,BOL,nutr
+59,Bolivia,Prevalencia de desnutrición (% de la población),2014,17.3,BOL,nutr
+60,Bolivia,Prevalencia de desnutrición (% de la población),2015,16.2,BOL,nutr
+61,Bolivia,Prevalencia de desnutrición (% de la población),2016,15.5,BOL,nutr
+62,Bolivia,Prevalencia de desnutrición (% de la población),2017,15.6,BOL,nutr
+63,Bolivia,Prevalencia de desnutrición (% de la población),2018,15.5,BOL,nutr
+64,Bolivia,Prevalencia de desnutrición (% de la población),2019,,BOL,nutr
+65,Bolivia,Prevalencia de desnutrición (% de la población),2020,,BOL,nutr
+66,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,BOL,escaños_mujeres
+67,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,11.5384615384615,BOL,escaños_mujeres
+68,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,25.384615384615397,BOL,escaños_mujeres
+69,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,25.384615384615397,BOL,escaños_mujeres
+70,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,25.384615384615397,BOL,escaños_mujeres
+71,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,53.0769230769231,BOL,escaños_mujeres
+72,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,53.0769230769231,BOL,escaños_mujeres
+73,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,53.0769230769231,BOL,escaños_mujeres
+74,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,53.0769230769231,BOL,escaños_mujeres
+75,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,53.0769230769231,BOL,escaños_mujeres
+76,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,53.0769230769231,BOL,escaños_mujeres
+77,Bolivia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,53.0769230769231,BOL,escaños_mujeres
+78,Bolivia,Camas hospitalarias (por cada 1.000 personas),1990,1.317800045,BOL,camas_hosp
+79,Bolivia,Camas hospitalarias (por cada 1.000 personas),2000,,BOL,camas_hosp
+80,Bolivia,Camas hospitalarias (por cada 1.000 personas),2011,1.07,BOL,camas_hosp
+81,Bolivia,Camas hospitalarias (por cada 1.000 personas),2012,1.1,BOL,camas_hosp
+82,Bolivia,Camas hospitalarias (por cada 1.000 personas),2013,1.12,BOL,camas_hosp
+83,Bolivia,Camas hospitalarias (por cada 1.000 personas),2014,1.15,BOL,camas_hosp
+84,Bolivia,Camas hospitalarias (por cada 1.000 personas),2015,1.13,BOL,camas_hosp
+85,Bolivia,Camas hospitalarias (por cada 1.000 personas),2016,1.27,BOL,camas_hosp
+86,Bolivia,Camas hospitalarias (por cada 1.000 personas),2017,1.29,BOL,camas_hosp
+87,Bolivia,Camas hospitalarias (por cada 1.000 personas),2018,,BOL,camas_hosp
+88,Bolivia,Camas hospitalarias (por cada 1.000 personas),2019,,BOL,camas_hosp
+89,Bolivia,Camas hospitalarias (por cada 1.000 personas),2020,,BOL,camas_hosp
+90,Bolivia,Control of Corruption Score,1996,-0.8248290999999999,BOL,corruption
+91,Bolivia,Control of Corruption Score,1998,-0.3579106,BOL,corruption
+92,Bolivia,Control of Corruption Score,2000,-0.460205,BOL,corruption
+93,Bolivia,Control of Corruption Score,2002,-0.8996164000000001,BOL,corruption
+94,Bolivia,Control of Corruption Score,2003,-0.8151417,BOL,corruption
+95,Bolivia,Control of Corruption Score,2004,-0.7758361999999999,BOL,corruption
+96,Bolivia,Control of Corruption Score,2005,-0.7362384,BOL,corruption
+97,Bolivia,Control of Corruption Score,2006,-0.4345672,BOL,corruption
+98,Bolivia,Control of Corruption Score,2007,-0.4037066,BOL,corruption
+99,Bolivia,Control of Corruption Score,2008,-0.5232219,BOL,corruption
+100,Bolivia,Control of Corruption Score,2009,-0.6303167,BOL,corruption
+101,Bolivia,Control of Corruption Score,2010,-0.4657613,BOL,corruption
+102,Bolivia,Control of Corruption Score,2011,-0.5694195,BOL,corruption
+103,Bolivia,Control of Corruption Score,2012,-0.7292001,BOL,corruption
+104,Bolivia,Control of Corruption Score,2013,-0.5899193,BOL,corruption
+105,Bolivia,Control of Corruption Score,2014,-0.6301294,BOL,corruption
+106,Bolivia,Control of Corruption Score,2015,-0.6963719,BOL,corruption
+107,Bolivia,Control of Corruption Score,2016,-0.7243935,BOL,corruption
+108,Brazil,Prevalencia de desnutrición (% de la población),1990,,BRA,nutr
+109,Brazil,Prevalencia de desnutrición (% de la población),2000,,BRA,nutr
+110,Brazil,Prevalencia de desnutrición (% de la población),2011,2.5,BRA,nutr
+111,Brazil,Prevalencia de desnutrición (% de la población),2012,2.5,BRA,nutr
+112,Brazil,Prevalencia de desnutrición (% de la población),2013,2.5,BRA,nutr
+113,Brazil,Prevalencia de desnutrición (% de la población),2014,2.5,BRA,nutr
+114,Brazil,Prevalencia de desnutrición (% de la población),2015,2.5,BRA,nutr
+115,Brazil,Prevalencia de desnutrición (% de la población),2016,2.5,BRA,nutr
+116,Brazil,Prevalencia de desnutrición (% de la población),2017,2.5,BRA,nutr
+117,Brazil,Prevalencia de desnutrición (% de la población),2018,2.5,BRA,nutr
+118,Brazil,Prevalencia de desnutrición (% de la población),2019,,BRA,nutr
+119,Brazil,Prevalencia de desnutrición (% de la población),2020,,BRA,nutr
+120,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,BRA,escaños_mujeres
+121,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,5.65302144249513,BRA,escaños_mujeres
+122,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,8.57699805068226,BRA,escaños_mujeres
+123,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,8.57699805068226,BRA,escaños_mujeres
+124,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,8.57699805068226,BRA,escaños_mujeres
+125,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,9.94152046783626,BRA,escaños_mujeres
+126,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,9.94152046783626,BRA,escaños_mujeres
+127,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,9.94152046783626,BRA,escaños_mujeres
+128,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,10.7212475633528,BRA,escaños_mujeres
+129,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,15.009746588694,BRA,escaños_mujeres
+130,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,15.009746588694,BRA,escaños_mujeres
+131,Brazil,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,14.6198830409357,BRA,escaños_mujeres
+132,Brazil,Camas hospitalarias (por cada 1.000 personas),1990,3.3452999592,BRA,camas_hosp
+133,Brazil,Camas hospitalarias (por cada 1.000 personas),2000,2.82,BRA,camas_hosp
+134,Brazil,Camas hospitalarias (por cada 1.000 personas),2011,2.31,BRA,camas_hosp
+135,Brazil,Camas hospitalarias (por cada 1.000 personas),2012,2.27,BRA,camas_hosp
+136,Brazil,Camas hospitalarias (por cada 1.000 personas),2013,2.25,BRA,camas_hosp
+137,Brazil,Camas hospitalarias (por cada 1.000 personas),2014,2.22,BRA,camas_hosp
+138,Brazil,Camas hospitalarias (por cada 1.000 personas),2015,2.15,BRA,camas_hosp
+139,Brazil,Camas hospitalarias (por cada 1.000 personas),2016,2.11,BRA,camas_hosp
+140,Brazil,Camas hospitalarias (por cada 1.000 personas),2017,2.09,BRA,camas_hosp
+141,Brazil,Camas hospitalarias (por cada 1.000 personas),2018,,BRA,camas_hosp
+142,Brazil,Camas hospitalarias (por cada 1.000 personas),2019,,BRA,camas_hosp
+143,Brazil,Camas hospitalarias (por cada 1.000 personas),2020,,BRA,camas_hosp
+144,Brazil,Control of Corruption Score,1996,-0.0185795,BRA,corruption
+145,Brazil,Control of Corruption Score,1998,0.07547330000000001,BRA,corruption
+146,Brazil,Control of Corruption Score,2000,0.0402037,BRA,corruption
+147,Brazil,Control of Corruption Score,2002,0.0810591,BRA,corruption
+148,Brazil,Control of Corruption Score,2003,0.0914829,BRA,corruption
+149,Brazil,Control of Corruption Score,2004,0.023013,BRA,corruption
+150,Brazil,Control of Corruption Score,2005,-0.139791,BRA,corruption
+151,Brazil,Control of Corruption Score,2006,-0.10904160000000003,BRA,corruption
+152,Brazil,Control of Corruption Score,2007,-0.0759291,BRA,corruption
+153,Brazil,Control of Corruption Score,2008,0.007890000000000001,BRA,corruption
+154,Brazil,Control of Corruption Score,2009,-0.0693086,BRA,corruption
+155,Brazil,Control of Corruption Score,2010,0.04628,BRA,corruption
+156,Brazil,Control of Corruption Score,2011,0.1659021,BRA,corruption
+157,Brazil,Control of Corruption Score,2012,-0.0372771,BRA,corruption
+158,Brazil,Control of Corruption Score,2013,-0.08471000000000001,BRA,corruption
+159,Brazil,Control of Corruption Score,2014,-0.3384546,BRA,corruption
+160,Brazil,Control of Corruption Score,2015,-0.3964888,BRA,corruption
+161,Brazil,Control of Corruption Score,2016,-0.3814404000000001,BRA,corruption
+162,Chile,Prevalencia de desnutrición (% de la población),1990,,CHL,nutr
+163,Chile,Prevalencia de desnutrición (% de la población),2000,,CHL,nutr
+164,Chile,Prevalencia de desnutrición (% de la población),2011,3.5,CHL,nutr
+165,Chile,Prevalencia de desnutrición (% de la población),2012,3.3,CHL,nutr
+166,Chile,Prevalencia de desnutrición (% de la población),2013,3.2,CHL,nutr
+167,Chile,Prevalencia de desnutrición (% de la población),2014,3.1,CHL,nutr
+168,Chile,Prevalencia de desnutrición (% de la población),2015,3.1,CHL,nutr
+169,Chile,Prevalencia de desnutrición (% de la población),2016,3.2,CHL,nutr
+170,Chile,Prevalencia de desnutrición (% de la población),2017,3.3,CHL,nutr
+171,Chile,Prevalencia de desnutrición (% de la población),2018,3.5,CHL,nutr
+172,Chile,Prevalencia de desnutrición (% de la población),2019,,CHL,nutr
+173,Chile,Prevalencia de desnutrición (% de la población),2020,,CHL,nutr
+174,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,CHL,escaños_mujeres
+175,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,10.833333333333302,CHL,escaños_mujeres
+176,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,14.166666666666698,CHL,escaños_mujeres
+177,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,14.166666666666698,CHL,escaños_mujeres
+178,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,15.833333333333302,CHL,escaños_mujeres
+179,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,15.833333333333302,CHL,escaños_mujeres
+180,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,15.833333333333302,CHL,escaños_mujeres
+181,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,15.833333333333302,CHL,escaños_mujeres
+182,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,,CHL,escaños_mujeres
+183,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,22.580645161290306,CHL,escaños_mujeres
+184,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,22.580645161290306,CHL,escaños_mujeres
+185,Chile,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,22.580645161290306,CHL,escaños_mujeres
+186,Chile,Camas hospitalarias (por cada 1.000 personas),1990,3.1586000919,CHL,camas_hosp
+187,Chile,Camas hospitalarias (por cada 1.000 personas),2000,2.72,CHL,camas_hosp
+188,Chile,Camas hospitalarias (por cada 1.000 personas),2011,2.22,CHL,camas_hosp
+189,Chile,Camas hospitalarias (por cada 1.000 personas),2012,2.17,CHL,camas_hosp
+190,Chile,Camas hospitalarias (por cada 1.000 personas),2013,2.17,CHL,camas_hosp
+191,Chile,Camas hospitalarias (por cada 1.000 personas),2014,2.12,CHL,camas_hosp
+192,Chile,Camas hospitalarias (por cada 1.000 personas),2015,2.14,CHL,camas_hosp
+193,Chile,Camas hospitalarias (por cada 1.000 personas),2016,2.12,CHL,camas_hosp
+194,Chile,Camas hospitalarias (por cada 1.000 personas),2017,2.11,CHL,camas_hosp
+195,Chile,Camas hospitalarias (por cada 1.000 personas),2018,2.06,CHL,camas_hosp
+196,Chile,Camas hospitalarias (por cada 1.000 personas),2019,,CHL,camas_hosp
+197,Chile,Camas hospitalarias (por cada 1.000 personas),2020,,CHL,camas_hosp
+198,Chile,Control of Corruption Score,1996,1.4541190000000002,CHL,corruption
+199,Chile,Control of Corruption Score,1998,1.380602,CHL,corruption
+200,Chile,Control of Corruption Score,2000,1.586007,CHL,corruption
+201,Chile,Control of Corruption Score,2002,1.592268,CHL,corruption
+202,Chile,Control of Corruption Score,2003,1.311239,CHL,corruption
+203,Chile,Control of Corruption Score,2004,1.373608,CHL,corruption
+204,Chile,Control of Corruption Score,2005,1.470515,CHL,corruption
+205,Chile,Control of Corruption Score,2006,1.457343,CHL,corruption
+206,Chile,Control of Corruption Score,2007,1.396431,CHL,corruption
+207,Chile,Control of Corruption Score,2008,1.376727,CHL,corruption
+208,Chile,Control of Corruption Score,2009,1.380127,CHL,corruption
+209,Chile,Control of Corruption Score,2010,1.497289,CHL,corruption
+210,Chile,Control of Corruption Score,2011,1.528443,CHL,corruption
+211,Chile,Control of Corruption Score,2012,1.582224,CHL,corruption
+212,Chile,Control of Corruption Score,2013,1.541565,CHL,corruption
+213,Chile,Control of Corruption Score,2014,1.488503,CHL,corruption
+214,Chile,Control of Corruption Score,2015,1.27997,CHL,corruption
+215,Chile,Control of Corruption Score,2016,1.140054,CHL,corruption
+216,Colombia,Prevalencia de desnutrición (% de la población),1990,,COL,nutr
+217,Colombia,Prevalencia de desnutrición (% de la población),2000,,COL,nutr
+218,Colombia,Prevalencia de desnutrición (% de la población),2011,11.3,COL,nutr
+219,Colombia,Prevalencia de desnutrición (% de la población),2012,9.6,COL,nutr
+220,Colombia,Prevalencia de desnutrición (% de la población),2013,8.4,COL,nutr
+221,Colombia,Prevalencia de desnutrición (% de la población),2014,7.3,COL,nutr
+222,Colombia,Prevalencia de desnutrición (% de la población),2015,6.6,COL,nutr
+223,Colombia,Prevalencia de desnutrición (% de la población),2016,5.8,COL,nutr
+224,Colombia,Prevalencia de desnutrición (% de la población),2017,5.5,COL,nutr
+225,Colombia,Prevalencia de desnutrición (% de la población),2018,5.5,COL,nutr
+226,Colombia,Prevalencia de desnutrición (% de la población),2019,,COL,nutr
+227,Colombia,Prevalencia de desnutrición (% de la población),2020,,COL,nutr
+228,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,COL,escaños_mujeres
+229,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,11.801242236024802,COL,escaños_mujeres
+230,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,12.121212121212098,COL,escaños_mujeres
+231,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,12.121212121212098,COL,escaños_mujeres
+232,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,12.121212121212098,COL,escaños_mujeres
+233,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,19.8795180722892,COL,escaños_mujeres
+234,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,19.8795180722892,COL,escaños_mujeres
+235,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,19.8795180722892,COL,escaños_mujeres
+236,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,18.6746987951807,COL,escaños_mujeres
+237,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,18.1286549707602,COL,escaños_mujeres
+238,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,18.7134502923977,COL,escaños_mujeres
+239,Colombia,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,18.3431952662722,COL,escaños_mujeres
+240,Colombia,Camas hospitalarias (por cada 1.000 personas),1990,1.3667000532,COL,camas_hosp
+241,Colombia,Camas hospitalarias (por cada 1.000 personas),2000,,COL,camas_hosp
+242,Colombia,Camas hospitalarias (por cada 1.000 personas),2011,1.45,COL,camas_hosp
+243,Colombia,Camas hospitalarias (por cada 1.000 personas),2012,1.48,COL,camas_hosp
+244,Colombia,Camas hospitalarias (por cada 1.000 personas),2013,1.54,COL,camas_hosp
+245,Colombia,Camas hospitalarias (por cada 1.000 personas),2014,1.59,COL,camas_hosp
+246,Colombia,Camas hospitalarias (por cada 1.000 personas),2015,1.61,COL,camas_hosp
+247,Colombia,Camas hospitalarias (por cada 1.000 personas),2016,1.68,COL,camas_hosp
+248,Colombia,Camas hospitalarias (por cada 1.000 personas),2017,1.7,COL,camas_hosp
+249,Colombia,Camas hospitalarias (por cada 1.000 personas),2018,1.71,COL,camas_hosp
+250,Colombia,Camas hospitalarias (por cada 1.000 personas),2019,,COL,camas_hosp
+251,Colombia,Camas hospitalarias (por cada 1.000 personas),2020,,COL,camas_hosp
+252,Colombia,Control of Corruption Score,1996,-0.5122544,COL,corruption
+253,Colombia,Control of Corruption Score,1998,-0.4973065,COL,corruption
+254,Colombia,Control of Corruption Score,2000,-0.396754,COL,corruption
+255,Colombia,Control of Corruption Score,2002,-0.2381676,COL,corruption
+256,Colombia,Control of Corruption Score,2003,-0.17899229999999994,COL,corruption
+257,Colombia,Control of Corruption Score,2004,-0.12893,COL,corruption
+258,Colombia,Control of Corruption Score,2005,-0.1322573,COL,corruption
+259,Colombia,Control of Corruption Score,2006,-0.122551,COL,corruption
+260,Colombia,Control of Corruption Score,2007,-0.21596350000000006,COL,corruption
+261,Colombia,Control of Corruption Score,2008,-0.2376168,COL,corruption
+262,Colombia,Control of Corruption Score,2009,-0.30945300000000003,COL,corruption
+263,Colombia,Control of Corruption Score,2010,-0.385391,COL,corruption
+264,Colombia,Control of Corruption Score,2011,-0.2887937,COL,corruption
+265,Colombia,Control of Corruption Score,2012,-0.3874514,COL,corruption
+266,Colombia,Control of Corruption Score,2013,-0.405205,COL,corruption
+267,Colombia,Control of Corruption Score,2014,-0.3686264,COL,corruption
+268,Colombia,Control of Corruption Score,2015,-0.2981746,COL,corruption
+269,Colombia,Control of Corruption Score,2016,-0.32425170000000003,COL,corruption
+270,Ecuador,Prevalencia de desnutrición (% de la población),1990,,ECU,nutr
+271,Ecuador,Prevalencia de desnutrición (% de la población),2000,,ECU,nutr
+272,Ecuador,Prevalencia de desnutrición (% de la población),2011,17.6,ECU,nutr
+273,Ecuador,Prevalencia de desnutrición (% de la población),2012,17.6,ECU,nutr
+274,Ecuador,Prevalencia de desnutrición (% de la población),2013,14.9,ECU,nutr
+275,Ecuador,Prevalencia de desnutrición (% de la población),2014,11.7,ECU,nutr
+276,Ecuador,Prevalencia de desnutrición (% de la población),2015,8.8,ECU,nutr
+277,Ecuador,Prevalencia de desnutrición (% de la población),2016,8.9,ECU,nutr
+278,Ecuador,Prevalencia de desnutrición (% de la población),2017,9.1,ECU,nutr
+279,Ecuador,Prevalencia de desnutrición (% de la población),2018,8.8,ECU,nutr
+280,Ecuador,Prevalencia de desnutrición (% de la población),2019,,ECU,nutr
+281,Ecuador,Prevalencia de desnutrición (% de la población),2020,,ECU,nutr
+282,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,ECU,escaños_mujeres
+283,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,14.634146341463401,ECU,escaños_mujeres
+284,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,32.258064516129,ECU,escaños_mujeres
+285,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,32.258064516129,ECU,escaños_mujeres
+286,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,38.6861313868613,ECU,escaños_mujeres
+287,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,41.605839416058394,ECU,escaños_mujeres
+288,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,41.605839416058394,ECU,escaños_mujeres
+289,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,41.605839416058394,ECU,escaños_mujeres
+290,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,37.956204379562,ECU,escaños_mujeres
+291,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,37.956204379562,ECU,escaños_mujeres
+292,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,37.956204379562,ECU,escaños_mujeres
+293,Ecuador,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,39.4160583941606,ECU,escaños_mujeres
+294,Ecuador,Camas hospitalarias (por cada 1.000 personas),1990,1.6440999508,ECU,camas_hosp
+295,Ecuador,Camas hospitalarias (por cada 1.000 personas),2000,,ECU,camas_hosp
+296,Ecuador,Camas hospitalarias (por cada 1.000 personas),2011,1.62,ECU,camas_hosp
+297,Ecuador,Camas hospitalarias (por cada 1.000 personas),2012,1.5,ECU,camas_hosp
+298,Ecuador,Camas hospitalarias (por cada 1.000 personas),2013,1.51,ECU,camas_hosp
+299,Ecuador,Camas hospitalarias (por cada 1.000 personas),2014,1.55,ECU,camas_hosp
+300,Ecuador,Camas hospitalarias (por cada 1.000 personas),2015,1.57,ECU,camas_hosp
+301,Ecuador,Camas hospitalarias (por cada 1.000 personas),2016,1.39,ECU,camas_hosp
+302,Ecuador,Camas hospitalarias (por cada 1.000 personas),2017,,ECU,camas_hosp
+303,Ecuador,Camas hospitalarias (por cada 1.000 personas),2018,,ECU,camas_hosp
+304,Ecuador,Camas hospitalarias (por cada 1.000 personas),2019,,ECU,camas_hosp
+305,Ecuador,Camas hospitalarias (por cada 1.000 personas),2020,,ECU,camas_hosp
+306,Ecuador,Control of Corruption Score,1996,-0.6848738,ECU,corruption
+307,Ecuador,Control of Corruption Score,1998,-0.8493824000000001,ECU,corruption
+308,Ecuador,Control of Corruption Score,2000,-0.894235,ECU,corruption
+309,Ecuador,Control of Corruption Score,2002,-0.886092,ECU,corruption
+310,Ecuador,Control of Corruption Score,2003,-0.7585784000000001,ECU,corruption
+311,Ecuador,Control of Corruption Score,2004,-0.7032968,ECU,corruption
+312,Ecuador,Control of Corruption Score,2005,-0.7129551,ECU,corruption
+313,Ecuador,Control of Corruption Score,2006,-0.7513059,ECU,corruption
+314,Ecuador,Control of Corruption Score,2007,-0.7718189000000001,ECU,corruption
+315,Ecuador,Control of Corruption Score,2008,-0.6871038,ECU,corruption
+316,Ecuador,Control of Corruption Score,2009,-0.8042204000000001,ECU,corruption
+317,Ecuador,Control of Corruption Score,2010,-0.773099,ECU,corruption
+318,Ecuador,Control of Corruption Score,2011,-0.7084505999999999,ECU,corruption
+319,Ecuador,Control of Corruption Score,2012,-0.5780621,ECU,corruption
+320,Ecuador,Control of Corruption Score,2013,-0.5709541,ECU,corruption
+321,Ecuador,Control of Corruption Score,2014,-0.7549306,ECU,corruption
+322,Ecuador,Control of Corruption Score,2015,-0.6712533,ECU,corruption
+323,Ecuador,Control of Corruption Score,2016,-0.6803263,ECU,corruption
+324,Paraguay,Prevalencia de desnutrición (% de la población),1990,,PRY,nutr
+325,Paraguay,Prevalencia de desnutrición (% de la población),2000,,PRY,nutr
+326,Paraguay,Prevalencia de desnutrición (% de la población),2011,7.9,PRY,nutr
+327,Paraguay,Prevalencia de desnutrición (% de la población),2012,7.9,PRY,nutr
+328,Paraguay,Prevalencia de desnutrición (% de la población),2013,7.8,PRY,nutr
+329,Paraguay,Prevalencia de desnutrición (% de la población),2014,7.7,PRY,nutr
+330,Paraguay,Prevalencia de desnutrición (% de la población),2015,8.0,PRY,nutr
+331,Paraguay,Prevalencia de desnutrición (% de la población),2016,8.5,PRY,nutr
+332,Paraguay,Prevalencia de desnutrición (% de la población),2017,8.7,PRY,nutr
+333,Paraguay,Prevalencia de desnutrición (% de la población),2018,8.8,PRY,nutr
+334,Paraguay,Prevalencia de desnutrición (% de la población),2019,,PRY,nutr
+335,Paraguay,Prevalencia de desnutrición (% de la población),2020,,PRY,nutr
+336,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,PRY,escaños_mujeres
+337,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,2.5,PRY,escaños_mujeres
+338,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,12.5,PRY,escaños_mujeres
+339,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,12.5,PRY,escaños_mujeres
+340,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,17.5,PRY,escaños_mujeres
+341,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,15.0,PRY,escaños_mujeres
+342,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,15.0,PRY,escaños_mujeres
+343,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,15.0,PRY,escaños_mujeres
+344,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,13.75,PRY,escaños_mujeres
+345,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,15.0,PRY,escaños_mujeres
+346,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,15.0,PRY,escaños_mujeres
+347,Paraguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,16.25,PRY,escaños_mujeres
+348,Paraguay,Camas hospitalarias (por cada 1.000 personas),1990,0.9322000146,PRY,camas_hosp
+349,Paraguay,Camas hospitalarias (por cada 1.000 personas),2000,,PRY,camas_hosp
+350,Paraguay,Camas hospitalarias (por cada 1.000 personas),2011,1.36,PRY,camas_hosp
+351,Paraguay,Camas hospitalarias (por cada 1.000 personas),2012,,PRY,camas_hosp
+352,Paraguay,Camas hospitalarias (por cada 1.000 personas),2013,,PRY,camas_hosp
+353,Paraguay,Camas hospitalarias (por cada 1.000 personas),2014,0.83,PRY,camas_hosp
+354,Paraguay,Camas hospitalarias (por cada 1.000 personas),2015,0.78,PRY,camas_hosp
+355,Paraguay,Camas hospitalarias (por cada 1.000 personas),2016,0.83,PRY,camas_hosp
+356,Paraguay,Camas hospitalarias (por cada 1.000 personas),2017,,PRY,camas_hosp
+357,Paraguay,Camas hospitalarias (por cada 1.000 personas),2018,,PRY,camas_hosp
+358,Paraguay,Camas hospitalarias (por cada 1.000 personas),2019,,PRY,camas_hosp
+359,Paraguay,Camas hospitalarias (por cada 1.000 personas),2020,,PRY,camas_hosp
+360,Paraguay,Control of Corruption Score,1996,-1.166015,PRY,corruption
+361,Paraguay,Control of Corruption Score,1998,-1.33512,PRY,corruption
+362,Paraguay,Control of Corruption Score,2000,-1.379774,PRY,corruption
+363,Paraguay,Control of Corruption Score,2002,-1.335866,PRY,corruption
+364,Paraguay,Control of Corruption Score,2003,-1.394238,PRY,corruption
+365,Paraguay,Control of Corruption Score,2004,-1.373365,PRY,corruption
+366,Paraguay,Control of Corruption Score,2005,-1.321241,PRY,corruption
+367,Paraguay,Control of Corruption Score,2006,-1.140731,PRY,corruption
+368,Paraguay,Control of Corruption Score,2007,-1.183495,PRY,corruption
+369,Paraguay,Control of Corruption Score,2008,-0.9771966,PRY,corruption
+370,Paraguay,Control of Corruption Score,2009,-0.8036359000000001,PRY,corruption
+371,Paraguay,Control of Corruption Score,2010,-0.7290340999999999,PRY,corruption
+372,Paraguay,Control of Corruption Score,2011,-0.7157609,PRY,corruption
+373,Paraguay,Control of Corruption Score,2012,-0.8575233,PRY,corruption
+374,Paraguay,Control of Corruption Score,2013,-1.037924,PRY,corruption
+375,Paraguay,Control of Corruption Score,2014,-0.9696631,PRY,corruption
+376,Paraguay,Control of Corruption Score,2015,-0.9470149,PRY,corruption
+377,Paraguay,Control of Corruption Score,2016,-0.7096779000000001,PRY,corruption
+378,Peru,Prevalencia de desnutrición (% de la población),1990,,PER,nutr
+379,Peru,Prevalencia de desnutrición (% de la población),2000,,PER,nutr
+380,Peru,Prevalencia de desnutrición (% de la población),2011,6.9,PER,nutr
+381,Peru,Prevalencia de desnutrición (% de la población),2012,5.9,PER,nutr
+382,Peru,Prevalencia de desnutrición (% de la población),2013,5.6,PER,nutr
+383,Peru,Prevalencia de desnutrición (% de la población),2014,5.8,PER,nutr
+384,Peru,Prevalencia de desnutrición (% de la población),2015,6.6,PER,nutr
+385,Peru,Prevalencia de desnutrición (% de la población),2016,6.9,PER,nutr
+386,Peru,Prevalencia de desnutrición (% de la población),2017,7.0,PER,nutr
+387,Peru,Prevalencia de desnutrición (% de la población),2018,6.7,PER,nutr
+388,Peru,Prevalencia de desnutrición (% de la población),2019,,PER,nutr
+389,Peru,Prevalencia de desnutrición (% de la población),2020,,PER,nutr
+390,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,PER,escaños_mujeres
+391,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,,PER,escaños_mujeres
+392,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,21.538461538461494,PER,escaños_mujeres
+393,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,21.538461538461494,PER,escaños_mujeres
+394,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,21.538461538461494,PER,escaños_mujeres
+395,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,22.3076923076923,PER,escaños_mujeres
+396,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,22.3076923076923,PER,escaños_mujeres
+397,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,27.6923076923077,PER,escaños_mujeres
+398,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,27.6923076923077,PER,escaños_mujeres
+399,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,27.6923076923077,PER,escaños_mujeres
+400,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,30.0,PER,escaños_mujeres
+401,Peru,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,26.153846153846196,PER,escaños_mujeres
+402,Peru,Camas hospitalarias (por cada 1.000 personas),1990,1.4132000208000002,PER,camas_hosp
+403,Peru,Camas hospitalarias (por cada 1.000 personas),2000,,PER,camas_hosp
+404,Peru,Camas hospitalarias (por cada 1.000 personas),2011,1.53,PER,camas_hosp
+405,Peru,Camas hospitalarias (por cada 1.000 personas),2012,1.52,PER,camas_hosp
+406,Peru,Camas hospitalarias (por cada 1.000 personas),2013,1.51,PER,camas_hosp
+407,Peru,Camas hospitalarias (por cada 1.000 personas),2014,1.56,PER,camas_hosp
+408,Peru,Camas hospitalarias (por cada 1.000 personas),2015,1.55,PER,camas_hosp
+409,Peru,Camas hospitalarias (por cada 1.000 personas),2016,1.59,PER,camas_hosp
+410,Peru,Camas hospitalarias (por cada 1.000 personas),2017,1.59,PER,camas_hosp
+411,Peru,Camas hospitalarias (por cada 1.000 personas),2018,,PER,camas_hosp
+412,Peru,Camas hospitalarias (por cada 1.000 personas),2019,,PER,camas_hosp
+413,Peru,Camas hospitalarias (por cada 1.000 personas),2020,,PER,camas_hosp
+414,Peru,Control of Corruption Score,1996,-0.3988855,PER,corruption
+415,Peru,Control of Corruption Score,1998,-0.3657552,PER,corruption
+416,Peru,Control of Corruption Score,2000,-0.3930036,PER,corruption
+417,Peru,Control of Corruption Score,2002,-0.2731197,PER,corruption
+418,Peru,Control of Corruption Score,2003,-0.07641680000000001,PER,corruption
+419,Peru,Control of Corruption Score,2004,-0.321763,PER,corruption
+420,Peru,Control of Corruption Score,2005,-0.3299646,PER,corruption
+421,Peru,Control of Corruption Score,2006,-0.2001904,PER,corruption
+422,Peru,Control of Corruption Score,2007,-0.2462706,PER,corruption
+423,Peru,Control of Corruption Score,2008,-0.1869539,PER,corruption
+424,Peru,Control of Corruption Score,2009,-0.3052301,PER,corruption
+425,Peru,Control of Corruption Score,2010,-0.2288108,PER,corruption
+426,Peru,Control of Corruption Score,2011,-0.2199591,PER,corruption
+427,Peru,Control of Corruption Score,2012,-0.3704499,PER,corruption
+428,Peru,Control of Corruption Score,2013,-0.4234869000000001,PER,corruption
+429,Peru,Control of Corruption Score,2014,-0.5603161,PER,corruption
+430,Peru,Control of Corruption Score,2015,-0.5338408,PER,corruption
+431,Peru,Control of Corruption Score,2016,-0.3673783,PER,corruption
+432,Uruguay,Prevalencia de desnutrición (% de la población),1990,,URY,nutr
+433,Uruguay,Prevalencia de desnutrición (% de la población),2000,,URY,nutr
+434,Uruguay,Prevalencia de desnutrición (% de la población),2011,2.5,URY,nutr
+435,Uruguay,Prevalencia de desnutrición (% de la población),2012,2.5,URY,nutr
+436,Uruguay,Prevalencia de desnutrición (% de la población),2013,2.5,URY,nutr
+437,Uruguay,Prevalencia de desnutrición (% de la población),2014,2.5,URY,nutr
+438,Uruguay,Prevalencia de desnutrición (% de la población),2015,2.5,URY,nutr
+439,Uruguay,Prevalencia de desnutrición (% de la población),2016,2.5,URY,nutr
+440,Uruguay,Prevalencia de desnutrición (% de la población),2017,2.5,URY,nutr
+441,Uruguay,Prevalencia de desnutrición (% de la población),2018,2.5,URY,nutr
+442,Uruguay,Prevalencia de desnutrición (% de la población),2019,,URY,nutr
+443,Uruguay,Prevalencia de desnutrición (% de la población),2020,,URY,nutr
+444,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),1990,,URY,escaños_mujeres
+445,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2000,12.121212121212098,URY,escaños_mujeres
+446,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2011,12.121212121212098,URY,escaños_mujeres
+447,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2012,12.121212121212098,URY,escaños_mujeres
+448,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2013,12.121212121212098,URY,escaños_mujeres
+449,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2014,13.1313131313131,URY,escaños_mujeres
+450,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2015,16.161616161616198,URY,escaños_mujeres
+451,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2016,16.161616161616198,URY,escaños_mujeres
+452,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2017,20.2020202020202,URY,escaños_mujeres
+453,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2018,20.2020202020202,URY,escaños_mujeres
+454,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2019,19.191919191919197,URY,escaños_mujeres
+455,Uruguay,Proporción de escaños ocupados por mujeres en los parlamentos nacionales (%),2020,21.212121212121197,URY,escaños_mujeres
+456,Uruguay,Camas hospitalarias (por cada 1.000 personas),1990,4.522600174,URY,camas_hosp
+457,Uruguay,Camas hospitalarias (por cada 1.000 personas),2000,,URY,camas_hosp
+458,Uruguay,Camas hospitalarias (por cada 1.000 personas),2011,2.98,URY,camas_hosp
+459,Uruguay,Camas hospitalarias (por cada 1.000 personas),2012,2.5,URY,camas_hosp
+460,Uruguay,Camas hospitalarias (por cada 1.000 personas),2013,2.49,URY,camas_hosp
+461,Uruguay,Camas hospitalarias (por cada 1.000 personas),2014,2.42,URY,camas_hosp
+462,Uruguay,Camas hospitalarias (por cada 1.000 personas),2015,2.43,URY,camas_hosp
+463,Uruguay,Camas hospitalarias (por cada 1.000 personas),2016,2.48,URY,camas_hosp
+464,Uruguay,Camas hospitalarias (por cada 1.000 personas),2017,2.43,URY,camas_hosp
+465,Uruguay,Camas hospitalarias (por cada 1.000 personas),2018,,URY,camas_hosp
+466,Uruguay,Camas hospitalarias (por cada 1.000 personas),2019,,URY,camas_hosp
+467,Uruguay,Camas hospitalarias (por cada 1.000 personas),2020,,URY,camas_hosp
+468,Uruguay,Control of Corruption Score,1996,1.124996,URY,corruption
+469,Uruguay,Control of Corruption Score,1998,1.079483,URY,corruption
+470,Uruguay,Control of Corruption Score,2000,0.9251407,URY,corruption
+471,Uruguay,Control of Corruption Score,2002,0.9126395,URY,corruption
+472,Uruguay,Control of Corruption Score,2003,1.050345,URY,corruption
+473,Uruguay,Control of Corruption Score,2004,0.8986151,URY,corruption
+474,Uruguay,Control of Corruption Score,2005,1.0746719999999998,URY,corruption
+475,Uruguay,Control of Corruption Score,2006,1.114514,URY,corruption
+476,Uruguay,Control of Corruption Score,2007,1.243985,URY,corruption
+477,Uruguay,Control of Corruption Score,2008,1.308401,URY,corruption
+478,Uruguay,Control of Corruption Score,2009,1.238403,URY,corruption
+479,Uruguay,Control of Corruption Score,2010,1.279333,URY,corruption
+480,Uruguay,Control of Corruption Score,2011,1.27888,URY,corruption
+481,Uruguay,Control of Corruption Score,2012,1.355477,URY,corruption
+482,Uruguay,Control of Corruption Score,2013,1.375125,URY,corruption
+483,Uruguay,Control of Corruption Score,2014,1.378793,URY,corruption
+484,Uruguay,Control of Corruption Score,2015,1.316853,URY,corruption
+485,Uruguay,Control of Corruption Score,2016,1.267499,URY,corruption

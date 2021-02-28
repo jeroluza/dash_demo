@@ -1,0 +1,95 @@
+﻿Series Name,Series Code,Country Name,Country Code,1990 [YR1990],2000 [YR2000],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,El mundo árabe,ARB,1.79558140293835,1.59937258781033,1.16240405733085,1.16184550107634,1.15075994438084,2.27463740975636,1.4851555619648,2.07354444137218,1.3803980055347,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Estados pequeos del Caribe,CSS,3.62007302269507,..,..,2.29411526858064,2.2427500202356,..,2.50115434699824,2.3160639672781,2.38672281082651,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Europa Central y del Báltico,CEB,8.11984050401736,6.69635228466984,6.54245871788132,6.57433663752296,6.55635454751669,6.58222272698589,6.57965016967324,6.58302091772516,6.5931794979831,6.42266707533026,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,inicial del dividendo demográfico,EAR,..,1.0588734886091,1.1207029287837,0.897906402344855,0.917524635725615,0.951542903294446,0.921113950059647,0.869940167878009,0.92308603303578,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Asia oriental y el Pacífico,EAS,2.34123160306518,2.8194719203073,3.21786822383713,3.50063164343935,3.68780606397972,3.85632918383105,4.18962029648551,4.26334669693741,4.51463397452467,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Asia oriental y el Pacífico (excluido altos ingresos),EAP,2.27877090593764,1.70760315263186,2.28197060465022,2.66005050754225,2.81807022853122,2.99176222307903,3.29985212134893,3.4084951324271,3.67499389372376,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Asia oriental y el Pacífico (BIRF y la AIF),TEA,2.27877090593764,1.70760315263186,2.28197060465022,2.52074785877916,2.81807022853122,2.99176222307903,3.29985212134893,3.4084951324271,3.67499389372376,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Zona del Euro,EMU,8.24123604035793,6.65467869262068,5.52899850775883,5.47778583458884,5.39840451313746,5.43295373249098,5.30389630543467,5.25405567889566,5.20378866775754,4.27628781409739,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Europa y Asia central,ECS,9.16318629701119,7.01498813819042,5.94729322506603,5.90387105497153,5.78262866937618,5.67803185839865,5.4650857126672,5.40812477794704,5.36095184255343,4.71304207400133,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Europa y Asia central (excluido altos ingresos),ECA,10.8874946973136,8.13357381746641,6.84454611519997,6.75832532439273,6.60557209223596,6.33869344751024,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Europa y Asia central (BIRF y la AIF),TEC,10.2640254636384,7.79881277737978,6.79184026920247,6.73177145543361,6.60171848205042,6.37609573368941,6.36667786393448,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Unión Europea,EUU,8.19699309053402,6.5322907201889,5.66122636290079,5.66121349628076,5.56493160033181,5.59715605841607,5.48828761485323,5.44956468663936,5.40981017188185,4.5934261813615,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Frágiles y situaciones de conflicto afectados,FCS,1.41460019575173,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Países pobres muy endeudados (PPME),HPC,0.997742408561214,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Ingreso alto,HIC,6.35559495997687,6.13633728366272,5.39317097264579,5.39794327311482,5.34317852803449,5.33802366507743,5.26573492789203,5.24013088506438,5.28101740242695,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Sólo BIRF,IBD,3.48668422337567,2.18807202190326,2.13269387004845,2.21253032839508,2.30537485134996,2.3561495704079,2.35036027058223,2.3827356891485,2.50425273485876,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,BIRF y la AIF,IBT,3.00600897198263,2.07833415411481,2.06243035168351,2.10508411095917,2.19928859556185,2.25400633170753,2.12137949649771,2.19341344926184,2.33513269737654,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,mezcla de la AIF,IDB,2.12055985191032,1.29402987082082,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Sólo AIF,IDX,0.974968637050281,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,total de la AIF,IDA,1.39247947046074,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,avanzada del dividendo demográfico,LTE,3.88242700187092,2.86942714469534,3.24911986069606,3.52554284718952,3.61507982662795,3.73437446693037,3.86249840040574,3.99587422602158,4.18641102279981,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,América Latina y el Caribe,LCN,2.48621088691865,..,1.92087973772044,1.97070296964192,1.99543418814064,1.91400624726391,1.88570180504993,1.8714795779976,1.89949876016894,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,América Latina y el Caribe (excluido altos ingresos),LAC,2.4385398537926,..,1.90182434025683,1.9531732863611,1.97915118855104,1.8969577278683,1.86629752936905,1.8526944637359,1.883750974417,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,América Latina y el Caribe (BIRF y la AIF),TLA,2.40807971821852,2.37746208731789,1.85741474776569,1.90375058774974,1.92883568251617,1.84884976033804,1.81926444284945,1.80450567195355,1.82959046304571,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Países menos desarrollados: clasificación de las Naciones Unidas,LDC,0.731796545820335,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Ingreso mediano y bajo,LMY,2.93102381463767,2.00855169776561,2.01045498639997,2.11053553890245,2.14649049301405,2.20485288249695,2.0693480931596,2.14318415200927,2.28505206277448,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Países de ingreso bajo,LIC,1.0792154613123,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Países de ingreso mediano bajo,LMC,..,1.21823926396976,0.948092272825172,0.961956999485429,0.950800151698123,0.937248447862506,0.710729858549432,0.627047221380288,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Oriente Medio y Norte de África,MEA,1.89196202675602,1.76658312174768,1.36388313373892,1.31364071133358,1.31340817107017,1.60408809177974,1.61726824930347,1.58579084273255,1.54178419412784,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Oriente Medio y Norte de África (excluido altos ingresos),MNA,1.7499535727127,1.64129821596983,1.23878005682743,1.17908425880501,1.16210103848925,1.50184782154513,1.54049361305493,1.48445984013995,1.42983363537295,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Oriente Medio y Norte de África (BIRF y la AIF),TMN,1.7499535727127,1.64129821596983,1.23878005682743,1.17908425880501,1.16210103848925,1.50184782154513,1.54049361305493,1.48445984013995,1.42983363537295,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS, Ingreso mediano,MIC,3.06873608935647,2.03573986208569,1.96641229630243,2.0764411026066,2.18280281882642,2.18339441593583,2.15534128603455,2.1722241301713,2.34238735357038,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,América del Norte,NAC,5.00984032705189,3.51746381798062,2.95312301283956,2.91605635391715,2.87301196659696,2.81397123718894,2.78196509449028,2.75290321919853,2.83563114641558,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,No clasificado,INX,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Miembros OCDE,OED,5.56452139236096,5.55206666291523,4.8550772422598,4.84195460635154,4.80526603049628,4.79389258198477,4.73536656806092,4.71392399006468,4.73147173710384,5.06242444624708,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Otros Estados pequeos,OSS,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Estados pequeos de las Islas del Pacfico,PSS,..,..,1.93815224634331,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,posterior al dividendo demográfico,PST,7.0242620625206,6.51695358251424,5.79357822915579,5.80169457326207,5.73463561227351,5.68139429433879,5.48213457647226,5.45416771279123,5.50051607615806,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,previa al dividendo demográfico,PRE,1.3293418500642,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Pequeños Estados,SST,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Asia meridional,SAS,..,0.680770269320573,0.620773096928507,0.542937312758765,0.504843141281592,0.536272761152407,0.598188005995446,0.52660072168226,0.588178451605002,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Asia meridional (BIRF y la AIF),TSA,..,0.680770269320573,0.620773096928507,0.542937312758765,0.504843141281592,0.536272761152407,0.598188005995446,0.52660072168226,0.588178451605002,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,África al sur del Sahara,SSF,1.21257542231363,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,África al sur del Sahara (excluido altos ingresos),SSA,1.21257542231363,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,África al sur del Sahara (BIRF y la AIF),TSS,1.21257542231363,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Ingreso mediano alto,UMC,3.30557967214218,2.70705211934161,2.75660791606492,2.95286279307733,3.12659567959533,3.19259007700405,3.21451642582046,3.31924786776816,3.48802526271734,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Mundo,WLD,3.64697597605836,2.90644931773977,2.66123361051544,2.75579434784499,2.79181540623653,2.80851798631498,2.70450098401523,2.75709481685243,2.89180606354077,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Antigua y Barbuda,ATG,6.5999999046,..,1.93,..,3.6,3.55,3.61,3.01,2.89,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Argentina,ARG,4.5942997932,4.1,4.39,4.59,4.78,4.84,4.96,4.95,4.99,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Aruba,ABW,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Bahamas,BHS,4,3.5,2.9,2.86,2.85,2.76,2.83,..,2.96,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Barbados,BRB,8.3999996185,..,..,6.34,6.34,5.93,5.9,5.89,5.97,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Belice,BLZ,2.7000000477,1.9,1.09,1.08,0.89,1.27,..,1.22,1.04,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Bolivia,BOL,1.317800045,..,1.07,1.1,1.12,1.15,1.13,1.27,1.29,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Brasil,BRA,3.3452999592,2.82,2.31,2.27,2.25,2.22,2.15,2.11,2.09,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Chile,CHL,3.1586000919,2.72,2.22,2.17,2.17,2.12,2.14,2.12,2.11,2.06,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Colombia,COL,1.3667000532,..,1.45,1.48,1.54,1.59,1.61,1.68,1.7,1.71,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Costa Rica,CRI,2.5,1.65,1.23,1.2,1.18,1.17,1.16,1.15,1.14,1.11,1.1,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Cuba,CUB,5.4211997986,..,5.08,5.04,5.05,5.16,5.24,5.32,5.33,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Curacao,CUW,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Dominica,DMA,3,3.8,3.8,3.8,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Ecuador,ECU,1.6440999508,..,1.62,1.5,1.51,1.55,1.57,1.39,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,El Salvador,SLV,1.4710999727,..,1.03,1.07,1.07,1.35,1.02,1.06,1.2,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Granada,GRD,8,6.2,3.6,3.58,3.81,3.8,3.78,3.58,3.57,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Guatemala,GTM,1.1000000238,..,0.66,0.61,..,0.62,0.58,0.26,0.44,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Guyana,GUY,..,..,..,..,..,1.72,..,1.71,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Haití,HTI,0.7555999756,0.7,..,..,0.71,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Honduras,HND,1.0067000389,..,0.62,0.62,0.65,0.63,0.66,0.64,0.64,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Isla de San Martín (parte francesa),MAF,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Islas Caimán,CYM,3,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Islas Turcas y Caicos,TCA,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Islas Vírgenes (EE.UU.),VIR,4.8000001907,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Islas Vírgenes Británicas,VGB,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Jamaica,JAM,2.2000000477,..,..,1.67,1.66,..,1.69,1.78,1.72,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,México,MEX,1,1.05,1.04,1.03,1.03,1.03,1,1,0.99,0.98,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Nicaragua,NIC,1.8213000298,..,1.14,0.96,0.95,0.93,0.93,0.93,0.93,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Panamá,PAN,2.5,..,2.27,2.33,2.3,2.24,2.29,2.25,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Paraguay,PRY,0.9322000146,..,1.36,..,..,0.83,0.78,0.83,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Perú,PER,1.4132000208,..,1.53,1.52,1.51,1.56,1.55,1.59,1.59,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Puerto Rico,PRI,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,República Dominicana,DOM,1.8812999725,..,1.74,1.74,1.79,1.79,1.58,1.44,1.56,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Saint Kitts y Nevis,KNA,9.1999998093,..,4.8,2.3,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,San Vicente y las Granadinas,VCT,4.6999998093,..,2.52,2.41,2.41,2.4,4.33,4.32,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Santa Lucía,LCA,4,2.3,1.46,..,1.2,..,1.41,..,1.3,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Sint Maarten (Dutch part),SXM,..,..,..,..,..,..,..,..,..,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Suriname,SUR,5.6999998093,3.9,..,..,..,..,3.05,..,3,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Trinidad y Tobago,TTO,4,3.3,..,2.72,2.7,2.99,3.01,3.03,3.02,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Uruguay,URY,4.522600174,..,2.98,2.5,2.49,2.42,2.43,2.48,2.43,..,..,..
+Camas hospitalarias (por cada 1.000 personas),SH.MED.BEDS.ZS,Venezuela,VEN,2.6779000759,..,0.93,..,..,0.78,0.73,0.86,0.87,..,..,..
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Data from Database: Indicadores del desarrollo mundial,,,,,,,,,,,,,,,
+Last Updated: 02/17/2021,,,,,,,,,,,,,,,
