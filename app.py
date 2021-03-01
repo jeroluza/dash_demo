@@ -40,23 +40,25 @@ fig131 = px.density_heatmap(tips_data, x="total_bill", y="tip", marginal_x="hist
 
 fig132 = px.box(tips_data, y="total_bill")
 
+fig211 = px.pie(gapminder, values='pop', names='country', title='Population of America')
+
+
+fig212 = px.violin(iris_data, y="sepal_width", color="species", box=True,
+          hover_data=iris_data.columns)
+
 gapminder["world"] = "world" # in order to have a single root node
 
-fig211 = px.treemap(gapminder, path=['world', 'continent', 'country'], values='pop',
+fig221 = px.treemap(gapminder, path=['world', 'continent', 'country'], values='pop',
                   color='lifeExp', hover_data=['iso_alpha'],
                   color_continuous_scale='RdBu',
                   color_continuous_midpoint=np.average(gapminder['lifeExp'], weights=gapminder['pop']))
 
-fig212 = px.sunburst(gapminder, path=['continent', 'country'], values='pop',
+fig222 = px.sunburst(gapminder, path=['continent', 'country'], values='pop',
                   color='lifeExp', hover_data=['iso_alpha'],
                   color_continuous_scale='RdBu',
                   color_continuous_midpoint=np.average(gapminder['lifeExp'], weights=gapminder['pop']))
 
-fig221 = px.pie(gapminder, values='pop', names='country', title='Population of America')
 
-
-fig222 = px.violin(iris_data, y="sepal_width", color="species", box=True,
-          hover_data=iris_data.columns)
 
 c11 = html.Div([
     dbc.Row([
